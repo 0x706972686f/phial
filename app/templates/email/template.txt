@@ -1,0 +1,5 @@
+Time: {{ datetime }}
+Username: {{ username }}
+Password: {{ password }}
+IP Address: {{ ipaddr }}
+User Agent: {{ useragent }}
